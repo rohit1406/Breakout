@@ -1,0 +1,34 @@
+Starting application: Sun Jul 11 19:01:08 2021
+GLFW initialised.: Sun Jul 11 19:01:08 2021
+OpenGL properties set with OpenGL version 3.3: Sun Jul 11 19:01:08 2021
+Main Window Created.: Sun Jul 11 19:01:08 2021
+GLEW Initialised.: Sun Jul 11 19:01:08 2021
+Viewport set to 800*600: Sun Jul 11 19:01:08 2021
+Window Initialisation Completed.: Sun Jul 11 19:01:08 2021
+Loading Shaders: resources/shaders/sprite.vs resources/shaders/sprite.fs : Sun Jul 11 19:01:08 2021
+Loading Shaders: resources/shaders/particle.vs resources/shaders/particle.fs : Sun Jul 11 19:01:08 2021
+Loading Shaders: resources/shaders/postprocessing.vs resources/shaders/postprocessing.fs : Sun Jul 11 19:01:08 2021
+Loading Texture resources/textures/background.jpeg with alpha = 0: Sun Jul 11 19:01:08 2021
+Loading Texture resources/textures/awesomeface.png with alpha = 1: Sun Jul 11 19:01:08 2021
+Loading Texture resources/textures/block.png with alpha = 0: Sun Jul 11 19:01:08 2021
+Loading Texture resources/textures/block_solid.png with alpha = 0: Sun Jul 11 19:01:08 2021
+Loading Texture resources/textures/paddle.png with alpha = 1: Sun Jul 11 19:01:08 2021
+Loading Texture resources/textures/particle.png with alpha = 1: Sun Jul 11 19:01:08 2021
+Loading Texture resources/textures/powerup_speed.png with alpha = 1: Sun Jul 11 19:01:08 2021
+Loading Texture resources/textures/powerup_sticky.png with alpha = 1: Sun Jul 11 19:01:08 2021
+Loading Texture resources/textures/powerup_increase.png with alpha = 1: Sun Jul 11 19:01:08 2021
+Loading Texture resources/textures/powerup_confuse.png with alpha = 1: Sun Jul 11 19:01:08 2021
+Loading Texture resources/textures/powerup_chaos.png with alpha = 1: Sun Jul 11 19:01:08 2021
+Loading Texture resources/textures/powerup_passthrough.png with alpha = 1: Sun Jul 11 19:01:08 2021
+POSTPROCESSOR:: Done with framebuffers initialisation.: Sun Jul 11 19:01:08 2021
+Loading Level: resources/levels/one.lvl: Sun Jul 11 19:01:08 2021
+Loading Level: resources/levels/two.lvl: Sun Jul 11 19:01:08 2021
+Loading Level: resources/levels/three.lvl: Sun Jul 11 19:01:08 2021
+Loading Level: resources/levels/four.lvl: Sun Jul 11 19:01:08 2021
+Loading Shaders: resources/shaders/text_2d.vs resources/shaders/text_2d.fs : Sun Jul 11 19:01:08 2021
+Game Initialised: Sun Jul 11 19:01:08 2021
+Loading Level: resources/levels/three.lvl: Sun Jul 11 19:03:19 2021
+Loading Level: resources/levels/three.lvl: Sun Jul 11 19:04:06 2021
+Loading Level: resources/levels/three.lvl: Sun Jul 11 19:07:43 2021
+Good Bye!: Sun Jul 11 19:08:11 2021
+------------------------------------------------------: Sun Jul 11 19:08:11 2021
